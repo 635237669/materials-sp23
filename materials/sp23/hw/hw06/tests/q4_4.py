@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q4_4',
     'points': [2, 3],
     'suites': [   {   'cases': [   {   'code': ">>> # There should be exactly as many elements in deck_statistics\n>>> # as the number 'repetitions'\n>>> len(deck_statistics) == repetitions\nTrue",

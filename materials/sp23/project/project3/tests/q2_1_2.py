@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_1_2',
     'points': [1, 2],
     'suites': [   {   'cases': [   {   'code': '>>> correct_dis = 0.001406116\n'

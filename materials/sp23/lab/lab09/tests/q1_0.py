@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_0',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> len(least_squares_order) == 4\nTrue', 'hidden': False, 'locked': False},

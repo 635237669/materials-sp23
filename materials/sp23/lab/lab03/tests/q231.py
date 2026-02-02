@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q231',
     'points': None,
     'suites': [   {   'cases': [   {   'code': ">>> # It looks like you're not making an array.  You shouldn't need to\n"

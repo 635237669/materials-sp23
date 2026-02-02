@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_13',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': ">>> # Check your column labels and spelling\n>>> region_counts.labels == ('region', 'count')\nTrue", 'hidden': False, 'locked': False},

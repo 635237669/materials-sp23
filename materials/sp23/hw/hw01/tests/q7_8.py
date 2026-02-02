@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q7_8',
     'points': [0, 0],
     'suites': [   {   'cases': [   {   'code': ">>> # Please actually go on Ed and look at the threads.\n>>> # Looks like you didn't make a string.\n>>> type(secret) == str\nTrue",

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_1_8',
     'points': [0, 1, 1, 1],
     'suites': [   {   'cases': [   {'code': ">>> genre_and_distances.labels == ('Genre', 'Distance')\nTrue", 'hidden': False, 'locked': False},

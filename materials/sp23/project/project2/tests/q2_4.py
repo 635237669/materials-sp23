@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_4',
     'points': [0, 0, 2],
     'suites': [   {   'cases': [   {'code': '>>> type(ab_test_stat) == np.ndarray\nTrue', 'hidden': False, 'locked': False},

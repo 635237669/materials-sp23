@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_3',
     'points': [0],
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure that you assign index_of_last_element to an index (integer), \n'

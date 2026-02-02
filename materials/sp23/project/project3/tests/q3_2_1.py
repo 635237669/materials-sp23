@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_2_1',
     'points': [1.5, 1.5],
     'suites': [   {   'cases': [   {   'code': '>>> # This test just checks to see if your classify function works correctly \n'

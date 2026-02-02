@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5_2',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> np.allclose([wait_below_3(1), wait_below_3(3), wait_above_3(3), wait_above_3(6)], \n'

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_4',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> # Make sure array_1_4 is an array.\n>>> import numpy as np\n>>> type(array_1_4) == np.ndarray\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_4',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> # visualization should be assigned to an integer.\n>>> type(visualization) == int\nTrue', 'hidden': False, 'locked': False},

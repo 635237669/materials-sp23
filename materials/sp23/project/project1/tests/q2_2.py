@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_2',
     'points': [0, 0, 0],
     'suites': [   {   'cases': [   {   'code': ">>> # Check your column labels and spelling\n>>> recent_poverty_total.labels == ('geo', 'poverty_percent', 'population_total', 'poverty_total')\nTrue",

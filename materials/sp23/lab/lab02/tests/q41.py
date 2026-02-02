@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q41',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> type(above_eight) == tables.Table\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q24',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> convert_pay_string_to_number("$100 ") == 100000000.0\nTrue', 'hidden': False, 'locked': False},

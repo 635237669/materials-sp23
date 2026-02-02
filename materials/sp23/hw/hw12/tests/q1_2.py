@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_2',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> # Double check that you have the correct number of rows for the `train` table.\n>>> train.num_rows == 75\nTrue', 'hidden': False, 'locked': False},

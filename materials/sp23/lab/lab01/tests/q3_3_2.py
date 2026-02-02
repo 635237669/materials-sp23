@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_3_2',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> # Fill in the line that currently says\n>>> #   predicted_distance_m = ...\n>>> # in the cell above.\n>>> predicted_distance_m != ...\nTrue',

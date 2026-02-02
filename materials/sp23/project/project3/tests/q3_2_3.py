@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_2_3',
     'points': [3],
     'suites': [   {   'cases': [   {   'code': '>>> # This test just checks that your classify_feature_row works correctly.\n'

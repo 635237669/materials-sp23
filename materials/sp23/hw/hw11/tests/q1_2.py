@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_2',
     'points': [0],
     'suites': [   {   'cases': [   {   'code': '>>> # Ensure your correlation function returns one number between -1 and 1\n'

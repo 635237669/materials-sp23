@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q34',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> farmers_markets_without_fmid.num_columns\n57', 'hidden': False, 'locked': False},

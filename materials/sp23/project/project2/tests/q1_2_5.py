@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_2_5',
     'points': [0, 1, 1],
     'suites': [   {   'cases': [   {'code': '>>> monthly_increases.num_rows == 12\nTrue', 'hidden': False, 'locked': False},

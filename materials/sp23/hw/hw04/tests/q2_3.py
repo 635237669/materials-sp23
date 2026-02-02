@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_3',
     'points': [0, 0, 2],
     'suites': [   {   'cases': [   {   'code': '>>> # Double check that your salary_range function is correct\n>>> compensation_range(make_array(5, 1, 20, 1000)) == 999\nTrue',

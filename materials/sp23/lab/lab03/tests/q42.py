@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q42',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> abs(before_2000_avg - 8.2783625730994146) < 1e-5\nTrue', 'hidden': False, 'locked': False},

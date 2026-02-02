@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_1_9',
     'points': [1, 1],
     'suites': [   {   'cases': [   {   'code': ">>> genre_and_distances.take(np.arange(7)).group('Genre').index_by('Genre')[my_assigned_genre][0].item('count') >= 4\nTrue",

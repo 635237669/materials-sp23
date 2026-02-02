@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> round(two_minute_predicted_waiting_time, 3) == 54.934\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_3',
     'points': [1, 1, 1, 1],
     'suites': [   {   'cases': [   {'code': '>>> len(simulated_tvds) == 10000\nTrue', 'hidden': False, 'locked': False},

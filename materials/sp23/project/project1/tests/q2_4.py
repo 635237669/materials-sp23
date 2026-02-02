@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_4',
     'points': [0, 0],
     'suites': [   {   'cases': [   {   'code': ">>> # Check your column labels and spelling\n>>> poverty_map.labels == ('latitude', 'longitude', 'name', 'region', 'poverty_total')\nTrue",

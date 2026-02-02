@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q4_1_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> # Fill in the line\n>>> #   num_avenues_away = ...\n>>> # in the cell above. \n>>> num_avenues_away != ...\nTrue', 'hidden': False, 'locked': False},

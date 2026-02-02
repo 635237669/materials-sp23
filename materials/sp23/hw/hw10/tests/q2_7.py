@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_7',
     'points': [0],
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure your function returns the value you computed for the RMSE.\n'

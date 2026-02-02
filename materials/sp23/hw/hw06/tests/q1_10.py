@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_10',
     'points': [0, 0],
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure histogram_statements is an array.\n>>> import numpy as np\n>>> type(histogram_statements) == np.ndarray\nTrue',

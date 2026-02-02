@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_12',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': ">>> # Check your column labels and spelling\n>>> pop_by_decade.labels == ('decade', 'population')\nTrue", 'hidden': False, 'locked': False},

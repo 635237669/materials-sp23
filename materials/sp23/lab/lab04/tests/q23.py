@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q23',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> # Your answer should be a number\n>>> type(mark_hurd_pay) != str\nTrue', 'hidden': False, 'locked': False},

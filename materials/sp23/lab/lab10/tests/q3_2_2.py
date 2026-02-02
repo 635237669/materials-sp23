@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_2_2',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> \n'

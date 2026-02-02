@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q4_3',
     'points': [0, 1],
     'suites': [   {   'cases': [   {'code': '>>> # Make sure you assign histogram_column_y to either 1 or 2!\n>>> type(histogram_column_y) == int\nTrue', 'hidden': False, 'locked': False},

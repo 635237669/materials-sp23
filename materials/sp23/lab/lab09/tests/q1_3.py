@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_3',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> abs(sum(faithful_standard.column(0))) <= 1e-8\nTrue', 'hidden': False, 'locked': False},

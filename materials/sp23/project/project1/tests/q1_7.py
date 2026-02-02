@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_7',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> # Make sure you are using the date range 1950-2020\n>>> poland_since_1950.num_rows\n71', 'hidden': False, 'locked': False},

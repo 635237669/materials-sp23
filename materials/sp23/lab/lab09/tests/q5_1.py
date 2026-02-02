@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5_1',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> [below_3.num_rows, above_3.num_rows]\n[97, 175]', 'hidden': False, 'locked': False},

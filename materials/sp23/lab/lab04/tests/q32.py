@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q32',
     'points': None,
     'suites': [   {   'cases': [   {   'code': ">>> # You either didn't add the 'Total Pay ($)' column, \n>>> # or you mislabeled it\n>>> 'Total Pay ($)' in compensation.labels\nTrue",

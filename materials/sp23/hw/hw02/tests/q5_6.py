@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5_6',
     'points': [0],
     'suites': [   {   'cases': [   {   'code': ">>> # If you're stuck, here's a hint: You want to multiply the count\n"

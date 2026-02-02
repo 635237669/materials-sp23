@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q5_7',
     'points': [0, 2, 3],
     'suites': [   {   'cases': [   {   'code': ">>> # It looks like your table doesn't have all 3 columns that are\n>>> # in the inventory table.\n>>> remaining_inventory.num_columns\n3",

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_8',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> test_stat = round(simulate_and_test_statistic(bakers, "won", "star baker awards"), 3)\n>>> -2 < test_stat < 2\nTrue',

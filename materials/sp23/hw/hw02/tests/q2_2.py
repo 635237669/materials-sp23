@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_2',
     'points': [1, 1, 1, 1],
     'suites': [   {   'cases': [   {'code': '>>> elements_of_some_numbers.column(0).item(2) == "third"\nTrue', 'hidden': False, 'locked': False},

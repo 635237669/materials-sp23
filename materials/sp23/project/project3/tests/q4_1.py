@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q4_1',
     'points': [0, 3],
     'suites': [   {   'cases': [   {'code': '>>> len(new_features) <= 5 # You have too many features\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q31',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> stats = compute_statistics(full_data)\n>>> plt.close()\n>>> plt.close()\n>>> round(float(stats[0]), 2) == 26.54\nTrue',

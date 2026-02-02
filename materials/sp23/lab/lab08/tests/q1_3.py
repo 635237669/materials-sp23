@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_3',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> round(age_mean, 3) == 27.228\nTrue', 'hidden': False, 'locked': False},

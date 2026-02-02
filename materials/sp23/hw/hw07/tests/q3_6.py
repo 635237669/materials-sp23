@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_6',
     'points': [0, 0],
     'suites': [   {   'cases': [   {'code': '>>> type(observed_statistic_ab) in set([float, np.float64])\nTrue', 'hidden': False, 'locked': False},

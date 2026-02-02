@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q35',
     'points': None,
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure to remove the "(No previous year)" CEOs \n>>> "(No previous year)" not in with_previous_compensation.column("% Change")\nTrue',

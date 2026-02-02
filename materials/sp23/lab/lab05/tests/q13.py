@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q13',
     'points': None,
     'suites': [   {   'cases': [   {'code': ">>> nacho_reaction('salsa')\n'Spicy!'", 'hidden': False, 'locked': False},

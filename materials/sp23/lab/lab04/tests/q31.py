@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q31',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> len(some_functions)\n3', 'hidden': False, 'locked': False},

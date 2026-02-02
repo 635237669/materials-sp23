@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q34',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> len(cash_proportion) == 101\nTrue', 'hidden': False, 'locked': False},

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_1',
     'points': [0, 0],
     'suites': [   {   'cases': [   {   'code': '>>> # Make sure you have all the columns from both tables\n'

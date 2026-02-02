@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q3_3',
     'points': [0, 0, 0, 0, 0],
     'suites': [   {   'cases': [   {'code': '>>> type(null_statement_number) == int\nTrue', 'hidden': False, 'locked': False},

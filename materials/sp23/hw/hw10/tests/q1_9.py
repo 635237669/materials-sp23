@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_9',
     'points': [2, 3],
     'suites': [   {   'cases': [   {   'code': ">>> test_table = Table().with_columns('x', make_array(1, 2, 4), 'y', make_array(4, 5, 6))\n"

@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q2_9',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> len(differences)\n5000', 'hidden': False, 'locked': False},

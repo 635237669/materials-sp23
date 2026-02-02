@@ -1,3 +1,4 @@
+OK_FORMAT = True
 test = {   'name': 'q1_2',
     'points': None,
     'suites': [   {   'cases': [   {'code': '>>> 0 <= expected_proportion_correct <= 1\nTrue', 'hidden': False, 'locked': False},
